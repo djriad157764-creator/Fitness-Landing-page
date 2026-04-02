@@ -1,0 +1,9 @@
+.page-size{
+    width: 100%;
+    max-width: 1060px;
+    margin: auto;
+}
+
+:root{
+    background-color: #000000;
+}
