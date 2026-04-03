@@ -1,4 +1,4 @@
-Fitness Landing Page
+# Fitness Landing Page
 
 A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction.
 
@@ -48,19 +48,19 @@ npm run dev
 
 # Project structure
 
-src/
-├── Component/
-│ ├── Navbar/
-│ ├── Banner/
-│ ├── HabitsSection/
-│ ├── ExtraRun/
-│ ├── TrainingsSection/
-│ ├── OurTeam/
-│ └── Footer/
-├── assets/
-│ └── (images)
-├── App.jsx
-├── App.css
+src/ <br/>
+├── Component/ <br/>
+│ ├── Navbar/ <br/>
+│ ├── Banner/ <br/>
+│ ├── HabitsSection/ <br/>
+│ ├── ExtraRun/ <br/>
+│ ├── TrainingsSection/ <br/>
+│ ├── OurTeam/ <br/>
+│ └── Footer/ <br/>
+├── assets/ <br/>
+│ └── (images) <br/>
+├── App.jsx <br/>
+├── App.css <br/>
 └── main.jsx
 
 # Responsive Design
@@ -93,6 +93,6 @@ Improve accessibility (ARIA, semantic HTML)
 
 # Author
 
-Md Riad Shekh
-Phone: +8801314674108
+Md Riad Shekh <br/>
+Phone: +8801314674108 <br/>
 Email: mdriadshekh586@gmail.com
