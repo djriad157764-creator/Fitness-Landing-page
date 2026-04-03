@@ -1,5 +1,7 @@
 # Fitness Landing Page
 
+(src/assets/image.png)
+
 A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction.
 
 # Features
