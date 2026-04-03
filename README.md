@@ -1,16 +1,98 @@
-# React + Vite
+Fitness Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction.
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Fully responsive design (mobile, tablet, desktop)
+Sticky navigation bar
+Hero banner with call-to-action buttons
+Habits change section with four cards
+Extra mile running section
+Trainings & exercises gallery with tips
+Meet our team section with trainer profiles
+Footer with important links and copyright
 
-## React Compiler
+# Sections Included
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Navbar – Sticky header with navigation links
+Banner – Hero section with motivational text and stats
+Habits Section – Four habit-changing cards
+Extra Run Section – Call-to-action for running more
+Trainings Section – Six exercise images with tips
+Our Team Section – Trainer profiles
+Footer – Links and copyright information
 
-## Expanding the ESLint configuration
+# Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+HTML5
+CSS3
+Tailwind CSS
+DaisyUI
+React.js
+
+# Installation & Setup
+
+Clone the repository
+git clone [GitHub Repo](https://github.com/djriad157764-creator/Fitness-Landing-page)
+Navigate to project folder
+cd fitness-landing-page
+Install dependencies
+npm install
+Run the development server
+npm run dev
+
+# Live Demo
+
+[Live Link](https://fitness-landing-page-chi-eight.vercel.app/)
+
+# Project structure
+
+src/
+├── Component/
+│ ├── Navbar/
+│ ├── Banner/
+│ ├── HabitsSection/
+│ ├── ExtraRun/
+│ ├── TrainingsSection/
+│ ├── OurTeam/
+│ └── Footer/
+├── assets/
+│ └── (images)
+├── App.jsx
+├── App.css
+└── main.jsx
+
+# Responsive Design
+
+Works seamlessly on mobile devices
+Works on tablets
+Works on desktops
+
+# Project Purpose
+
+This project was built as a practice and learning project to improve frontend development skills, especially in:
+
+Component-based architecture (React)
+Responsive design (Tailwind CSS)
+UI structuring and layout
+
+# What I Learned
+
+Building reusable React components
+Using Tailwind CSS efficiently
+Creating fully responsive layouts
+Structuring a real-world landing page
+
+# Future Improvements
+
+Add smooth scrolling navigation
+Add animations (Framer Motion or CSS)
+Add form functionality (Contact section)
+Improve accessibility (ARIA, semantic HTML)
+
+# Author
+
+Md Riad Shekh
+Phone: +8801314674108
+Email: mdriadshekh586@gmail.com
