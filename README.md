@@ -2,8 +2,6 @@
 
 ![Fitness Landing Page Screenshot](public/image.png)
 
-![Fitness Landing Page Screenshot](https://raw.githubusercontent.com/username/repo/main/src/assets/image.png)
-
 A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction.
 
 # Features
