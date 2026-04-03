@@ -7,7 +7,7 @@ const HabitsSection = () => {
   return (
     <div className="page-size  ">
       <div className="text-center">
-        <h1 className="text-[32px] md:text-4xl lg:text-5xl font-black mb-3.5">
+        <h1 className="section-title text-[32px] md:text-4xl lg:text-5xl font-black mb-3.5">
           Change Your Habits
         </h1>
         <p>
@@ -18,7 +18,7 @@ const HabitsSection = () => {
       <div className="grid grid-cols-1 mb-25 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 mt-14">
         <div className="">
           <img
-            className="rounded-full mx-auto mb-7.5 object-cover border-4 border-red-500"
+            className="rounded-full mx-auto mb-7.5 object-cover w-48 h-48"
             src={MovementImage}
             alt=""
           />
@@ -30,7 +30,7 @@ const HabitsSection = () => {
         </div>
         <div className="">
           <img
-            className="rounded-full mx-auto mb-7.5 object-cover border-4 border-red-500"
+            className="rounded-full mx-auto mb-7.5 object-cover w-48 h-48"
             src={timeImage}
             alt=""
           />
@@ -42,7 +42,7 @@ const HabitsSection = () => {
         </div>
         <div className="">
           <img
-            className="rounded-full mx-auto mb-7.5 object-cover border-4 border-red-500"
+            className="rounded-full mx-auto mb-7.5 object-cover w-48 h-48"
             src={practiceImage}
             alt=""
           />
@@ -54,7 +54,7 @@ const HabitsSection = () => {
         </div>
         <div className="">
           <img
-            className="rounded-full mx-auto mb-7.5 object-cover border-4 border-red-500"
+            className="rounded-full mx-auto mb-7.5 object-cover w-48 h-48"
             src={weightLossImage}
             alt=""
           />

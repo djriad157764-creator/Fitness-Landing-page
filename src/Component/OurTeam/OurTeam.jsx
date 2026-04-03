@@ -8,7 +8,7 @@ import TrainerImage6 from "../../assets/trainer6.png";
 const OurTeam = () => {
   return (
     <div className="page-size ">
-      <h2 className="text-[32px] md:text-4xl  lg:text-5xl font-black mb-3.5 text-center">
+      <h2 className="section-title text-[32px] md:text-4xl  lg:text-5xl font-black mb-3.5 text-center">
         Meet Our Team
       </h2>
       <p className="text-white/50 text-center">

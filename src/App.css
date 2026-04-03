@@ -1,9 +1,28 @@
-.page-size{
-    width: 100%;
-    max-width: 1060px;
-    margin: auto;
+.page-size {
+  width: 100%;
+  max-width: 1060px;
+  margin: auto;
 }
 
-:root{
-    background-color: #000000;
+/* index.css বা App.css */
+body {
+  background: rgba(15, 1, 1, 0.178);
+  background-attachment: fixed;
+  color: white;
+  min-height: 100vh;
+}
+
+.section-title {
+  background: linear-gradient(135deg, #f7a39c, #b48c64, #fae061);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 900;
+}
+
+.banner-title {
+  background: linear-gradient(135deg, #ffffffa6, #e6533c, #ff914d);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

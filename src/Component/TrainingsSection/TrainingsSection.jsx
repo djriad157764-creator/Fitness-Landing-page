@@ -8,7 +8,7 @@ import ExerciseImage6 from "../../assets/exercise6.jpg";
 const TrainingsSection = () => {
   return (
     <div className="page-size px-5 sm:px-7.5  lg:px-2">
-      <h2 className="text-[32px] md:text-4xl  lg:text-5xl font-black mb-3.5">
+      <h2 className="section-title text-[32px] md:text-4xl  lg:text-5xl font-black mb-3.5">
         Trainings and Exercises
       </h2>
       <p className="text-white/50">
@@ -22,8 +22,8 @@ const TrainingsSection = () => {
             src={ExerciseImage1}
             alt=""
           />
-          <div className="absolute inset-0 bg-[#06FFD2]/50 z-10"></div>
-          <div className="absolute bottom-5 left-3 text-white/80 z-30 text-[14px]">
+          <div className="absolute inset-0 bg-red-900/20 z-10"></div>
+          <div className="absolute bottom-5 left-3  z-30 text-[14px]">
             <h2>Lat Pulldown</h2>
             <p>Pull bar to your upper chest.</p>
           </div>
@@ -35,7 +35,7 @@ const TrainingsSection = () => {
             alt=""
           />
           <div className="absolute inset-0 bg-[#FF0000]/30 z-10"></div>
-          <div className="absolute top-5 left-5 text-white/80 z-30 text-[14px]">
+          <div className="absolute top-5 left-5  z-30 text-[14px]">
             <h2>Leg Press</h2>
             <p>Keep back flat. Don't lock knees.</p>
           </div>
@@ -47,7 +47,7 @@ const TrainingsSection = () => {
             alt=""
           />
           <div className="absolute inset-0 bg-[#000000]/50  z-10"></div>
-          <div className="absolute bottom-5 left-3 text-white/80 z-30 text-[14px]">
+          <div className="absolute bottom-5 left-3  z-30 text-[14px]">
             <h2>Seated Row</h2>
             <p>Pull handle to your lower ribs.</p>
           </div>
@@ -59,7 +59,7 @@ const TrainingsSection = () => {
             alt=""
           />
           <div className="absolute inset-0 bg-[#000000]/50 z-10"></div>
-          <div className="absolute top-7 right-5 text-white/80 text-[14px] z-30 ">
+          <div className="absolute bottom-7 left-5  text-[14px] z-30 ">
             <h2>Chest Press</h2>
             <p>Control weight. Push through your palms.</p>
           </div>
@@ -71,7 +71,7 @@ const TrainingsSection = () => {
             alt=""
           />
           <div className="absolute inset-0 bg-[#42FF00]/30 z-10"></div>
-          <div className="absolute bottom-5  z-30 text-[14px] text-white/80 left-3">
+          <div className="absolute bottom-5  z-30 text-[14px]  left-3">
             <h2>Shoulder Press</h2>
             <p>Keep elbows forward. Don't arch back.</p>
           </div>
@@ -83,7 +83,7 @@ const TrainingsSection = () => {
             alt=""
           />
           <div className="absolute inset-0 bg-[#0047FF]/30 z-10"></div>
-          <div className="absolute bottom-5 left-3 text-[14px] text-white/80 z-30">
+          <div className="absolute bottom-5 left-3 text-[14px]  z-30">
             <h2>Leg Curl</h2>
             <p>Move slowly. Hold for one second.</p>
           </div>

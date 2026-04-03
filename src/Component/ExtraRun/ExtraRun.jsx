@@ -5,7 +5,7 @@ const ExtraRun = () => {
     <div className="px-5 mb-25">
       <div className="sm:flex items-center page-size bg-[#222222] p-8 rounded-[18px] justify-between">
         <div className="mb-8">
-          <h1 className="text-[32px] md:text-4xl  lg:text-5xl font-black mb-3.5">
+          <h1 className="section-title text-[32px] md:text-4xl  lg:text-5xl font-black mb-3.5">
             Run an Extra <br /> Mile Easily
           </h1>
           <p className="text-white/50 mb-8">

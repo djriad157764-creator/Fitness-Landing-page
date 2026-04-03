@@ -1,0 +1,29 @@
+Fitness Landing Page
+
+A modern and fully responsive Fitness Landing Page built with React and Tailwind CSS. This project demonstrates a clean UI design with multiple sections focused on fitness, workouts, and team introduction.
+
+Features
+
+Fully responsive design (mobile, tablet, desktop)
+Sticky navigation bar
+Hero banner with call-to-action buttons
+Habits change section with four cards
+Extra mile running section
+Trainings & exercises gallery with tips
+Meet our team section with trainer profiles
+Footer with important links and copyright
+
+Technologies Used
+HTML5
+CSS3
+Tailwind CSS
+DaisyUI
+React.js
+
+Live Demo
+[Live Link](https://fitness-landing-page-chi-eight.vercel.app/)
+
+Author
+Md Riad Shekh 
+Phone: +8801314674108 
+Email: mdriadshekh586@gmail.com
